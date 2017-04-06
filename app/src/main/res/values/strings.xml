@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyContact</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_contact">Add Contact</string>
+</resources>
